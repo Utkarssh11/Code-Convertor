@@ -1,19 +1,5 @@
-# Code Converter
-## Getting Started
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-##
+# Code Converter 💻🔀
 
 ## Overview
 
@@ -21,4 +7,22 @@ Code Converter is a powerful web application built using Next.js that allows dev
 
 The app supports popular programming languages such as JavaScript, C++, Java, Python, and Rust and is optimized for fast and responsive performance on all devices. Whether you're a beginner or an experienced developer, Code Converter can save you valuable time and effort in converting code between languages.
 
-##
+## Features ✨
+
+- Convert code from one programming language to another.
+- Support for popular languages like JavaScript, C++, Java, Python, and Rust.
+- Simple and user-friendly interface.
+- Manual language selection.
+- Fast and responsive performance.
+
+## License 📄
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact 📧
+
+For any inquiries or suggestions, please contact us at [LinkedIn](https://www.linkedin.com/in/utkarsh-patidar-800081221/).
+
+ges.
+
+## Thank you 🌸👻
