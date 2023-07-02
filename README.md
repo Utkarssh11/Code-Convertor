@@ -1,4 +1,3 @@
-
 # Code Converter 💻🔀
 
 ## Overview
@@ -15,6 +14,10 @@ The app supports popular programming languages such as JavaScript, C++, Java, Py
 - Manual language selection.
 - Fast and responsive performance.
 
+## Demo 🚀
+
+Check out the live demo of Code Converter [here](https://codeco.vercel.app/).
+
 ## License 📄
 
 This project is licensed under the [MIT License](LICENSE).
@@ -23,6 +26,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or suggestions, please contact us at [LinkedIn](https://www.linkedin.com/in/utkarsh-patidar-800081221/).
 
-ges.
-
-## Thank you 🌸👻
+##Thank you !!👻
