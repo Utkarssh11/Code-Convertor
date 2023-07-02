@@ -4,8 +4,6 @@
 
 Code Converter is a powerful web application built using Next.js that allows developers to easily convert code from one programming language to another. With its simple and user-friendly interface, manual language selection, and use of an API for accurate conversion, Code Converter is an essential tool for developers who work with multiple programming languages.
 
-The app supports popular programming languages such as JavaScript, C++, Java, Python, and Rust and is optimized for fast and responsive performance on all devices. Whether you're a beginner or an experienced developer, Code Converter can save you valuable time and effort in converting code between languages.
-
 ## Features ✨
 
 - Convert code from one programming language to another.
@@ -16,14 +14,14 @@ The app supports popular programming languages such as JavaScript, C++, Java, Py
 
 ## Demo 🚀
 
-Check out the live demo of Code Converter [here](https://codeco.vercel.app/).
+Experience the live demo of Code Converter: [Code Converter Demo](https://codeco.vercel.app/)
 
 ## License 📄
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact 📧
 
-For any inquiries or suggestions, please contact us at [LinkedIn](https://www.linkedin.com/in/utkarsh-patidar-800081221/).
+For any inquiries or suggestions, please feel free to contact us via LinkedIn: [Utkarsh Patidar](https://www.linkedin.com/in/utkarsh-patidar-800081221/).
 
-##Thank you !!👻
+Thank you for your interest in Code Converter! We hope you find it helpful for your code conversion needs. Happy coding! 😊🚀
